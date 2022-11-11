@@ -128,8 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-Sales.csv
-BigMartSales/artifact/data_ingestion/2022-11-10-19-28-26/zip_data/Sales.zip
-src/BigMartSales/artifact/data_ingestion/2022-11-10-20-27-21/zip_data/Sales.zip
+
 research/Sales2.csv
 research/Sales1.csv
+research/Sales.csv
