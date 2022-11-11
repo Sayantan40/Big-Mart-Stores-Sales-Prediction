@@ -70,7 +70,7 @@ domain_value:
       - Grocery Store
       - Supermarket Type3
       - Supermarket Type2
-New_Item_Type:
+  New_Item_Type:
       - Food
       - Non-Consumable
       - Drinks
