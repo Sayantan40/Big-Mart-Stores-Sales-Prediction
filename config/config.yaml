@@ -3,7 +3,7 @@ training_pipeline_config:
   artifact_dir: artifact
 
 data_ingestion_config:
-  dataset_download_url: https://drive.google.com/uc?export=download&id=1VCTBddqJ0W46VtjkRWCLvmUFCcoGganp
+  dataset_download_url: https://drive.google.com/uc?export=download&id=1-08ukGrgWjPcDI9kquWzACU1zdxyMWmT
   raw_data_dir: raw_data
   zip_download_dir: zip_data
   ingested_dir: ingested_data
