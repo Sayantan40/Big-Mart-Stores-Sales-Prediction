@@ -1,0 +1,81 @@
+columns:
+   item_identifier: category
+   item_weight: float
+   item_fat_content: category
+   item_visibility: float
+   item_type: category
+   item_mrp: float
+   outlet_identifier: category
+   outlet_establishment_year: int
+   outlet_size: category
+   outlet_location_type: category
+   outlet_type: category
+   item_outlet_sales: float
+
+
+
+
+numerical_columns:
+  - item_weight
+  - item_visibility
+  - item_mrp
+
+
+categorical_columns:
+  - item_fat_content
+  - item_type
+  - outlet_size
+  - outlet_location_type
+  - outlet_type
+ 
+
+
+unwanted_columns:
+  - item_identifier
+  - outlet_identifier
+
+
+
+
+target_column: 
+   - item_outlet_sales
+
+
+domain_value:
+  item_fat_content:
+      - Low Fat
+      - Regular
+  item_type:
+      - Snack Foods
+      - Dairy
+      - Others
+      - Fruits and Vegetables
+      - Baking Goods
+      - Health and Hygiene
+      - Breads
+      - Hard Drinks
+      - Seafood
+      - Soft Drinks
+      - Household
+      - Frozen Foods
+      - Meat
+      - Canned
+      - Starchy Foods
+      - Breakfast
+  outlet_size:
+      - Medium
+      - Small
+      - High  
+  outlet_location_type:
+      - Tier 1
+      - Tier 2
+      - Tier 3 
+  outlet_type:
+      - Supermarket Type1
+      - Grocery Store
+      - Supermarket Type3
+      - Supermarket Type2
+
+
+
+  
