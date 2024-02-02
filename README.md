@@ -61,6 +61,6 @@ The Application is slow because of being a free tier usage
 [Notebooks](https://github.com/Sayantan40/Big-Mart-Stores-Sales-Prediction/tree/master/research)
 
 # Completion Certificate
-![Certificate 3_page-0001](https://github.com/Sayantan40/Big-Mart-Stores-Sales-Prediction/assets/88722031/ec32a555-6740-4ef3-ae3b-f396df824b2c)
+![Certificate 3_page-0001](https://github.com/Sayantan40/Big-Mart-Stores-Sales-Prediction/assets/88722031/ec32a555-6740-4ef3-ae3b-f396df824b2c=250x250)
 
 
