@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/88722031/220370041-ba737b61-6974-4f5c-
 
 
 ## App Url
-https://ml2-7d4u.onrender.com
+[https://ml2-7d4u.onrender.com](https://big-mart-stores-sales-prediction.onrender.com/)
 
 The Application is slow because of being a free tier usage
 
