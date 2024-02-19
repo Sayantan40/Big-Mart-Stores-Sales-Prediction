@@ -2,7 +2,7 @@ numpy
 Flask
 gunicorn
 zipfile36
-sklearn
+scikit-learn
 pandas
 PyYAML
 evidently
